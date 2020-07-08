@@ -41,6 +41,8 @@ You can run any code just by sending .lua file to your telegram bot.
 
 /includes folder contains a few LUA files, which you can execute by default.
 
+**memes.lua and sent_header.lua are internal files and SHOULD NOT BE EDITED OR REMOVED!**
+
 **Example commands:**
 
       /sendfile servinfo - that will display all server info inside your telegram bot.
